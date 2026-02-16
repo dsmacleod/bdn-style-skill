@@ -1,0 +1,4 @@
+interface:
+  display_name: "BDN Style"
+  short_description: "Apply Bangor Daily News tone and style to drafts and edits"
+  default_prompt: "Edit this draft to match BDN style, preserving facts and intent."
