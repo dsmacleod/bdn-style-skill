@@ -59,7 +59,7 @@ Use the entries below as authoritative defaults.
 - `Harbor master`: Two words.
 - `Homeless`: Acceptable adjective; avoid "the homeless"; mention only if relevant; avoid disparaging terms.
 - `Hunters breakfast`: Use "hunters breakfast," not hunters' or hunter's breakfast.
-- `Hyphens`: Do not use hyphen to connect an adverb to another word; use for compound modifiers only when needed for clarity.
+- `Hyphens`: Do not use hyphen to connect an adverb to another word; use for compound modifiers only when needed for clarity. Do not remove hyphens that are part of proper names (e.g., Can-Am, T-Mobile).
 - `Impact`: Never use as a verb.
 - `Increase/decrease`: Prefer descriptive verbs like "spike," "boost," "drop," or "plummet" when accurate.
 - `Indigenous/Native American`: Capitalize Indigenous; use tribal affiliation for specific people; "Wabanaki tribes" is the collective term in Maine.
@@ -101,13 +101,13 @@ Use the entries below as authoritative defaults.
 
 - `Antlerless deer permits`: Use "antlerless deer permits," not "deer permits."
 - `Bangor Daily News`: Use full name on first reference; `BDN` subsequently.
-- `The County`: Aroostook County is "The County" (capitalized).
+- `The County`: Aroostook County is "The County" — capitalize both words, including "The," on every reference, even mid-sentence.
 - `Down East`: Two words, uppercase; refers to Washington County.
 - `Katahdin`: Use "Katahdin," not "Mount Katahdin."
 - `MaineCare`: Maine's version of Medicaid.
 - `Mainer`: Preferred over "Maine resident."
 - `Midcoast`: One word, lowercase, no hyphen.
-- `North Woods`: Two words, capitalized.
+- `North Woods`: Two words, capitalized. This refers to the generic regional term only. "North Maine Woods" is a distinct proper name — both a geographic region and the name of a nonprofit land management organization. Do not change "North Maine Woods" to "North Woods."
 - `Roads`: Do not use "the" before road names except for "the Golden Road."
 
 ### Police and courts
